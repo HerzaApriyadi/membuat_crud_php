@@ -31,7 +31,7 @@
               EDIT SISWA
             </div>
             <div class="card-body">
-              <form action="update-siswa.php" method="POST">
+              <form action="update-siswa.php" method="get">
                 
                 <div class="form-group">
                   <label>NISN</label>
